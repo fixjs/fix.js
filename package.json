@@ -1,0 +1,19 @@
+{
+  "name": "fix.js",
+  "version": "0.0.1",
+  "description": "A JavaScript libarary to get the most from JavaScript as a Functional programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fixjs/fix.js.git"
+  },
+  "author": "Mehran Hatami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fixjs/fix.js/issues"
+  },
+  "homepage": "https://github.com/fixjs/fix.js"
+}

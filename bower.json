@@ -1,0 +1,24 @@
+{
+  "name": "fix.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fixjs/fix.js",
+  "authors": [
+    "Mehran Hatami <mehranhatamie@gmail.com>"
+  ],
+  "description": "A JavaScript libarary to get the most from JavaScript as a Functional programming language",
+  "main": "index.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}
