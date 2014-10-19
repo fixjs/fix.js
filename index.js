@@ -5,10 +5,12 @@
     FN = require('./lib/fn.js'),
     global = fix.ENV.g();
 
+  console.log('global: ', global);
+
   var fnId = FN(function (x) {
     return FN(function (y) {
       return FN(function (z) {
-        return x + y + z
+        return x + y + z;
       });
     });
   });
