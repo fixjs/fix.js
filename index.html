@@ -10,7 +10,11 @@
 
 <body>
 
-  <script src="lib/require.js"></script>
+  <script>
+  	var fix = {};
+  	window.fix = fix;
+  </script>
+  <script data-main src="lib/module-browser.js"></script>
   <script src="lib/main.js"></script>
 </body>
 
