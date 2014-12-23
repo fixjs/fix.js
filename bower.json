@@ -19,6 +19,8 @@
     "tests"
   ],
   "dependencies": {
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "observe-js": "~0.5.2",
+    "definejs": "~0.2.31"
   }
 }
